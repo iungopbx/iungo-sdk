@@ -50,17 +50,17 @@
   },
   "contributors": [
     {
-      "name": "Kirill Konshin"
+      "name": "Daniel Paixao"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/iungopbx/iungo-js.git"
+    "url": "git://github.com/iungopbx/sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/iungopbx/iungo-js/issues"
+    "url": "https://github.com/iungopbx/sdk/issues"
   },
-  "homepage": "https://github.com/iungopbx/iungo-js",
+  "homepage": "https://github.com/iungopbx/sdk",
   "engines": {
     "node": ">=4"
   },
